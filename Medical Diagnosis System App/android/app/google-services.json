@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "407375604191",
+    "project_id": "medical-diagnosis-system-5ac77",
+    "storage_bucket": "medical-diagnosis-system-5ac77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407375604191:android:e0c11cff6a0ff2e1c0fc6a",
+        "android_client_info": {
+          "package_name": "com.example.medical_diagnosis_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHtCgBxVGgFT8t5Wdr1KCyTgEyHNpu8VA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
